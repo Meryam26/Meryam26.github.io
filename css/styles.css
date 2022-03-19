@@ -49,8 +49,15 @@
 
 .badge-position { 
   position: absolute;
-  top: 130px; 
-  left: 975px; 
+  top: 120px; 
+  left: 1000px; 
+  text-align:left;
+}
+
+.badge-position-tab { 
+  position: absolute;
+  top: 120px; 
+  left: 1180px; 
   text-align:left;
 }
 
